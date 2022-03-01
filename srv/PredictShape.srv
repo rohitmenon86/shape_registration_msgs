@@ -1,0 +1,8 @@
+sensor_msgs/PointCloud2 observed_point_cloud
+
+---
+
+string result_text
+int16  result_code 
+sensor_msgs/PointCloud2 predicted_point_cloud
+geometry_msgs/Transform rigid_local_transform
